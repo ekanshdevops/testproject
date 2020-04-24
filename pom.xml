@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.ekanshdevops</groupId>
-	<artifactId>test-project</artifactId>
+	<artifactId>testproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>test-project</name>
+	<name>testproject</name>
 	<description>Test Project</description>
 	<url>https://github.com/ekanshdevops/testproject.git</url>
 	
