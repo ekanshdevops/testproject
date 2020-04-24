@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.github.ekanshdevops</groupId>
 	<artifactId>testproject</artifactId>
-	<version>3.6.3</version>
+	<version>1.0.0</version>
 	<name>testproject</name>
 	<description>Test Project</description>
 	<url>https://github.com/ekanshdevops/testproject.git</url>
@@ -101,6 +101,7 @@
         			</execution>
       			</executions>
       		</plugin>
+      		
     	</plugins>
 	</build>
 
