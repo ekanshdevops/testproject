@@ -1,10 +1,10 @@
-package com.testproject;
+package com.github.ekanshdevops.testproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestProjectApplicationTests {
+class TestprojectApplicationTests {
 
 	@Test
 	void contextLoads() {

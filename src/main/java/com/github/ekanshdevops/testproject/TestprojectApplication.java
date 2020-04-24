@@ -1,13 +1,13 @@
-package com.testproject;
+package com.github.ekanshdevops.testproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestProjectApplication {
+public class TestprojectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestProjectApplication.class, args);
+		SpringApplication.run(TestprojectApplication.class, args);
 	}
 
 }
